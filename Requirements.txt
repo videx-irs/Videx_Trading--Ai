@@ -1,2 +1,2 @@
-kivy
-requests
+Flask
+gunicorn
