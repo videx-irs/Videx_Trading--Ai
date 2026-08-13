@@ -1,2 +1,4 @@
-print("VIDEX TRADING AI")
-print("System Ready")
+from app import app
+
+if __name__ == "__main__":
+    app.run()
