@@ -1,6 +1,6 @@
 from flask import Flask, jsonify, request
 
-app = Flask(__name__)
+App = Flask(__name__)
 
 # Temporary in-memory posts
 posts = [
